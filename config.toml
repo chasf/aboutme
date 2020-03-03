@@ -19,12 +19,12 @@ paginate = 5
     url = "https://www.xing.com/profile/Frank_Jordan16"
 
   # Brown theme
-  #[[params.style]]
-  #  darkestColor = "#463625"
-  #  darkColor = "#2a3738"
-  #  primaryColor = "#eeee6a"
-  #  lightColor = "#96a879"
-  #  lightestColor = "#ffffff"
+  [[params.style]]
+    darkestColor = "#463625"
+    darkColor = "#2a3738"
+    primaryColor = "#eeee6a"
+    lightColor = "#96a879"
+    lightestColor = "#ffffff"
 
   # Green theme
   #[params.style]
@@ -33,11 +33,11 @@ paginate = 5
   #  primaryColor = "#dad865"
   #  lightColor = "#96a879"
   #  lightestColor = "#fff"
-  #
+  
   # Red and black theme
-  [params.style]
-    darkestColor = "#d35050"
-    darkColor = "#212121"
-    primaryColor = "#ffffff"
-    lightColor = "#a2a2a2"
-    lightestColor = "#d3d3d3"
+  #[params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  primaryColor = "#ffffff"
+  #  lightColor = "#a2a2a2"
+  #  lightestColor = "#d3d3d3"
