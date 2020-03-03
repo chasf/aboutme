@@ -26,7 +26,7 @@ paginate = 5
   #  lightColor = "#96a879"
   #  lightestColor = "#ffffff"
 
-   Green theme
+#   Green theme
   [params.style]
     darkestColor = "#315659"
     darkColor = "#253031"
