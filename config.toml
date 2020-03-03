@@ -1,11 +1,11 @@
 baseURL = "https://master.d3qxjnk36rfr49.amplifyapp.com/"
 languageCode = "en-us"
-title = "Frank Jordan"
+title = ""
 theme = "m10c"
 paginate = 5
 
 [params]
-#  author = "Frank Jordan"
+  author = "Frank Jordan"
   description = "I do IT"
   avatar = "avatar.jpg"
   [[params.social]]
