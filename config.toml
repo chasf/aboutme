@@ -18,6 +18,14 @@ paginate = 5
     name = "xing"
     url = "https://www.xing.com/profile/Frank_Jordan16"
 
+  # Frank theme
+  [params.style]
+    darkestColor = "#242930"
+    darkColor = "#2d4055"
+    primaryColor = "#bec4ce"
+    lightColor = "#bd871f"
+    lightestColor = "#ffffff"
+
   # Brown theme
   #[params.style]
   #  darkestColor = "#463625"
