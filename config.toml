@@ -7,12 +7,16 @@ paginate = 5
 [params]
   author = "Frank Jordan"
   description = "I do IT"
+  avatar = "img/avatar.jpg"
   [[params.social]]
     name = "github"
     url = "https://github.com/chasf"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/frankjordangbg"
+  [[params.social]]
+    name = "xing"
+    url = "https://www.xing.com/profile/Frank_Jordan16"
 
   # Brown theme
 [params.style]
