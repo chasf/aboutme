@@ -33,7 +33,7 @@ paginate = 5
   #  primaryColor = "#dad865"
   #  lightColor = "#96a879"
   #  lightestColor = "#fff"
-
+  #
   # Red and black theme
   [params.style]
     darkestColor = "#d35050"
