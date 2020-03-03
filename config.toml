@@ -20,11 +20,16 @@ paginate = 5
 
   # Frank theme
   [params.style]
+    #Left bar
     darkestColor = "#242930"
-    darkColor = "#2d4055"
-    primaryColor = "#bec4ce"
-    lightColor = "#bd871f"
-    lightestColor = "#ffffff"
+    #Main background
+    darkColor = "#645858"
+    #Avatar border, icons, links
+    primaryColor = "#7E7B74"
+    #Text color
+    lightColor = "#999C8F"
+    #Name and headline color
+    lightestColor = "#EDF0E6"
 
   # Brown theme
   #[params.style]
