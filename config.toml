@@ -7,7 +7,7 @@ paginate = 5
 [params]
   author = "Frank Jordan"
   description = "I do IT"
-  avatar = "./img/avatar.jpg"
+  avatar = "avatar.jpg"
   [[params.social]]
     name = "github"
     url = "https://github.com/chasf"
