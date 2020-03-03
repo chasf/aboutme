@@ -23,20 +23,20 @@ paginate = 5
     #Left bar
     darkestColor = "#242930"
     #Main background
-    darkColor = "#645858"
+    darkColor = "#3d4856"
     #Avatar border, icons, links
-    primaryColor = "#7E7B74"
+    primaryColor = "#a1acbd"
     #Text color
-    lightColor = "#999C8F"
+    lightColor = "#EDF0E6"
     #Name and headline color
-    lightestColor = "#EDF0E6"
+    lightestColor = "#FFFFF"
 
   # Brown theme
   #[params.style]
   #  darkestColor = "#463625"
   #  darkColor = "#2a3738"
   #  primaryColor = "#eeee6a"
-  #  lightColor = "#96a879"
+  #  lightColor = "#7c6b56"
   #  lightestColor = "#ffffff"
 
   # Green theme
