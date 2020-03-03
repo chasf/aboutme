@@ -5,7 +5,7 @@ theme = "m10c"
 paginate = 5
 
 [params]
-  author = "Frank Jordan"
+#  author = "Frank Jordan"
   description = "I do IT"
   avatar = "avatar.jpg"
   [[params.social]]
