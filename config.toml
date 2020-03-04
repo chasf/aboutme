@@ -23,7 +23,7 @@ paginate = 5
     darkestColor = "#242930"
     darkColor = "#3d4856"
     primaryColor = "#ff9e00"
-    lightColor = "#fff"
+    lightColor = "#d6d6d6"
     lightestColor = "#fff"
 
   # Frank theme
