@@ -19,7 +19,7 @@ date: 2020-03-14T12:06:44+01:00
 * Nicht den Hausarzt besuchen! Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
   * Beim Corona-Test wird eine Speichelprobe entnommen. Hierfür kommt -- meinen Informationen zufolge -- ein Arzt dann zu einem nach Hause.
 * Mögliche Symptome sind: Fieber, Husten, Atemnot. Derzeit wird davon ausgegangen, dass es nach einer Ansteckung bis zu 14 Tage dauern kann, bis Krankheitszeichen auftreten. 
-
+[corona-symptome](/static/DW-VM-CoronaSymptome-js-1-jpg.jpg)
 ### Kommunale Info-Hotlines
 Nürnberg: 0911 / 231 10 666 (Montag bis Donnerstag 8.30 bis 16 Uhr, Freitag von 8.30 bis 12 Uhr) -- Ich konnte heute (Samstag, 14.03.) auch jemanden erreichen.
 
