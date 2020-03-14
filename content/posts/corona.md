@@ -4,7 +4,7 @@ date: 2020-03-14T12:06:44+01:00
 ---
 
 ## Was tun?
-Unbestätigt: Inoffiziell empfiehlt die Uniklinik Wien kein (!) Ibuprofen in Quarantäne zu nehmen. Es bestehen stichhaltige Beweise, dass Ibuprofen die Vermehrung der Coronaviren beschleunigt. Lieber Paracetamol, Aspirin oder Voltaren nutzen!  Hierzu konnte ich bisher keine Bestätigungen im Internet finden -- aber wer mal 2 Wochen auf Ibus verzichten kann sollte das vielleicht einfach mal tun.
+Angeblich soll Ibuprofen die Vermehrung von Corona-Viren begünstigen. Ich konnte hierzu keine Infos im Internet finden.
 
 ### Wenn man in einem Risikogebiet war
 * 2 Wochen freiwillige Quarantäne
