@@ -4,6 +4,7 @@ date: 2020-03-14T12:06:44+01:00
 ---
 ## Wichtige Infos vorab
 * Dies ist mein persönlicher Wissensstand und soll nur zur Orientierung helfen. Bitte informiert euch selbstständig.
+* Die Stadt Nürnberg hat eine eigene Infoseite: <https://www.nuernberg.de/internet/stadtportal/coronavirus.html>
 * Dass Ibuprofen die Corona-Verbreitung begünstigt ist völliger Unsinn. Statement der MediUni Wien: <https://twitter.com/MedUni_Wien/status/1238782938344554496>
 
 ## Was tun?
@@ -27,6 +28,3 @@ Stadt und Landkreis Fürth: 0911 / 97 73 30 39 (Montag bis Mittwoch 7.30 bis 16.
 Schwabach und Roth: 09171 / 81 16 01
 
 Stadt und Landkreis Erlangen-Höchstadt: 09131 / 803 26 80
-
-### Weitere Infos
-https://www.nuernberg.de/internet/stadtportal/coronavirus.html
