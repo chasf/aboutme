@@ -2,19 +2,20 @@
 title: "Corona"
 date: 2020-03-14T12:06:44+01:00
 ---
+## Wichtige Infos vorab
+* Dies ist mein persönlicher Wissensstand und soll nur zur Orientierung helfen. Bitte informiert euch selbstständig.
+* Es kursiert aktuell eine Nachricht, dass Ibuprofen die Corona-Vermehrung begünstigen soll. Hierzu gibt es bisher keine Bestätigung, als ist's wahrscheinlich Unsinn.
 
 ## Was tun?
-Angeblich soll Ibuprofen die Vermehrung von Corona-Viren begünstigen. Ich konnte hierzu keine Infos im Internet finden.
-
 ### Wenn man in einem Risikogebiet war
 * 2 Wochen freiwillige Quarantäne
 * Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne
 * Arbeitgeber informieren und weiteres Vorgehen abklären. 
-* Im Zweifel schreiben manche Hausärzte jemanden für 1 Woche krank.
+* Im Zweifel schreiben manche Hausärzte einen für 1 Woche krank.
 
 ### Bei Symptomen
-* Hausarzt oder 116117 anrufen (!) und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
-  * Bei einem Corona-Test, wird eine Speichelprobe entnommen. Hierfür kommt -- meinen Informationen zufolge -- ein Arzt dann zu einem nach Hause.
+* Nicht den Hausarzt besuchen! Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
+  * Beim Corona-Test wird eine Speichelprobe entnommen. Hierfür kommt -- meinen Informationen zufolge -- ein Arzt dann zu einem nach Hause.
 * Mögliche Symptome sind: Fieber, Husten, Atemnot. Derzeit wird davon ausgegangen, dass es nach einer Ansteckung bis zu 14 Tage dauern kann, bis Krankheitszeichen auftreten. Gegenüber der Influenza ist die Erkrankung allein aufgrund der Symptome schwer abgrenzbar.
 
 ### Kommunale Info-Hotlines
