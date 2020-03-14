@@ -5,11 +5,12 @@ date: 2020-03-14T12:06:44+01:00
 
 ## Was tun?
 ### Wenn man in einem Risikogebiet war
-*2 Wochen freiwillige Quarantäne
-*Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne
+* 2 Wochen freiwillige Quarantäne
+* Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne
 
 ### Bei Symptomen
-*Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
+* Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
+* Mögliche Symptome sind: Fieber, Husten, Atemnot. Derzeit wird davon ausgegangen, dass es nach einer Ansteckung bis zu 14 Tage dauern kann, bis Krankheitszeichen auftreten. Gegenüber der Influenza ist die Erkrankung allein aufgrund der Symptome schwer abgrenzbar.
 
 ### Info-Hotlines
 Nürnberg: 0911 / 231 10 666 (Montag bis Donnerstag 8.30 bis 16 Uhr, Freitag von 8.30 bis 12 Uhr)
