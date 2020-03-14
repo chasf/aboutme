@@ -1,11 +1,13 @@
 ---
-title: "Corona"
+title: "Corona-Infos Nürnberg und Umgebung"
 date: 2020-03-14T12:06:44+01:00
 ---
 ## Wichtige Infos vorab
 * Dies ist mein persönlicher Wissensstand und soll nur zur Orientierung helfen. Bitte informiert euch selbstständig.
-* Dass Ibuprofen die Corona-Verbreitung begünstigt ist völliger Unsinn. Statement der MediUni Wien: https://twitter.com/MedUni\_Wien/status/1238782938344554496
+* Dass Ibuprofen die Corona-Verbreitung begünstigt ist völliger Unsinn. Statement der MediUni Wien: <https://twitter.com/MedUni_Wien/status/1238782938344554496>
+
 ## Was tun?
+
 ### Wenn man in einem Risikogebiet war
 * 2 Wochen freiwillige Quarantäne
 * Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne
