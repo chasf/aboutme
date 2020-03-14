@@ -4,8 +4,7 @@ date: 2020-03-14T12:06:44+01:00
 ---
 ## Wichtige Infos vorab
 * Dies ist mein persönlicher Wissensstand und soll nur zur Orientierung helfen. Bitte informiert euch selbstständig.
-* Es kursiert aktuell eine Nachricht, dass Ibuprofen die Corona-Vermehrung begünstigen soll. Hierzu gibt es bisher keine Bestätigung, als ist's wahrscheinlich Unsinn.
-
+* Dass Ibuprofen die Corona-Verbreitung begünstigt ist völliger Unsinn. Statement der MediUni Wien: https://twitter.com/MedUni\_Wien/status/1238782938344554496
 ## Was tun?
 ### Wenn man in einem Risikogebiet war
 * 2 Wochen freiwillige Quarantäne
