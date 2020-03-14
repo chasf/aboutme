@@ -33,14 +33,11 @@ Stadt und Landkreis Erlangen-Höchstadt: 09131 / 803 26 80
 ## Info einer Ärztin aus den Bekanntenkreis
 Es haben ein paar kundige Menschen ein paar Gedanken zu Corona zusammengeschrieben. Halte die für ganz sinnvoll. Es geht nicht über das, was in NDR, Droste und co schon besprochen wurde hinaus. Ist nur eine kleine Zusammenfassung. 
 
-
 Praktische Hinweise zu Sars-CoV-2 /Covid-19
 Stand 14.3.2020, Version 1.0; Argumente für allgm. empfohlene Maßnahmen 
 
-
 Die individuelle Verhaltens-/Schaden-Abwägung beeinflusst das Risiko für alle Kontaktpersonen.
 Rahmenüberlegung: das Virus kann (und wird langfristig) jeden infizieren (bei 60-80 % Durchseuchung kommt vmtl. die Epidemie zum Erliegen, aber davon verschwindet das Virus nicht aus der Population), das Virus ist für jeden gefährlich , nur symptomatische Therapie möglich.
-
  
 In 4 Wochen könnten Beatmungsplätze knapp werden – dies macht die Überlegung, sich lieber jetzt zu infizieren („weil man es ja sowieso bekommt“), solange es noch Beatmungsbetten gibt, nicht ganz abwegig; NACHTEIL: der Verlauf der Erkrankung ist nicht vorhersehbar, man nimmt damit einen ev. schweren Verlauf in Kauf.
 Deswegen wahrscheinlich besser: Hinauszögerung der Erkrankung, bis bessere Diagnose- und Therapieverfahren (bes. spezifisch antiviral) verfügbar sind:
