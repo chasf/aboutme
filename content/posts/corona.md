@@ -12,16 +12,19 @@ date: 2020-03-14T12:06:44+01:00
 
 ### Wenn man in einem Risikogebiet war
 * 2 Wochen freiwillige Quarantäne
-* Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne
+* Kontaktpersonen (weniger als 1m) informieren -- diese müssen ggf. auch in Quarantäne.
 * Arbeitgeber informieren und weiteres Vorgehen abklären. 
 * Im Zweifel schreiben manche Hausärzte einen für 1 Woche krank.
 
 ### Bei Symptomen
-* Nicht den Hausarzt besuchen! Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. 
+* Nicht den Hausarzt besuchen! Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. Es folgt ein Corona-Test.
   * Beim Corona-Test wird eine Speichelprobe entnommen. Hierfür kommt -- meinen Informationen zufolge -- ein Arzt dann zu einem nach Hause.
-* Mögliche Symptome sind: Fieber, Husten, Atemnot. Derzeit wird davon ausgegangen, dass es nach einer Ansteckung bis zu 14 Tage dauern kann, bis Krankheitszeichen auftreten. 
+* Mögliche Symptome sind: 
 ![corona-symptome](/img/DW-VM-CoronaSymptome-js-1-jpg.jpg)
-### Kommunale Info-Hotlines
+
+### (Kommunale) Info-Hotlines
+Ärztlicher Bereitschaftsdienst: 116117 -- Falls der Hausarzt nicht erreichbar ist. Hier sollte nur bei konkreten Symptomen angerufen werden. Die Leitungen sind ohnehin völlig überlastet.
+
 Nürnberg: 0911 / 231 10 666 (Montag bis Donnerstag 8.30 bis 16 Uhr, Freitag von 8.30 bis 12 Uhr) -- Ich konnte heute (Samstag, 14.03.) auch jemanden erreichen.
 
 Stadt und Landkreis Fürth: 0911 / 97 73 30 39 (Montag bis Mittwoch 7.30 bis 16.00 Uhr, Donnerstag 7.30 bis 17.00 Uhr und Freitag 7.30  12.30 Uhr)
