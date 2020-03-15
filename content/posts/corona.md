@@ -19,7 +19,8 @@ date: 2020-03-14T12:06:44+01:00
 ### Bei Symptomen
 * Nicht den Hausarzt besuchen! Hausarzt oder 116117 anrufen und weiteres Vorgehen abklären. Hier wird wahrscheinlich eine richtige Quarantäne verordnet, die dann auch befolgt werden muss. Es folgt ein Corona-Test.
   * Beim Corona-Test wird eine Speichelprobe entnommen. Hierfür kommt -- meinen Informationen zufolge -- ein Arzt dann zu einem nach Hause.
-* Mögliche Symptome sind: 
+* Mögliche Symptome sind:  
+
 ![corona-symptome](/img/DW-VM-CoronaSymptome-js-1-jpg.jpg)
 
 ### (Kommunale) Info-Hotlines
