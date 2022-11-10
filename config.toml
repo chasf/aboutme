@@ -16,6 +16,7 @@ paginate = 5
     url = "https://www.linkedin.com/in/frankjordangbg"
   [[params.social]]
     name = "xing"
+    icon = "x"
     url = "https://www.xing.com/profile/Frank_Jordan16"
 
   # Green theme
