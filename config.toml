@@ -9,14 +9,16 @@ paginate = 5
   description = "Network & Automation"
   avatar = "avatar.jpg"
   [[params.social]]
+    icon = "github"
     name = "github"
     url = "https://github.com/chasf"
   [[params.social]]
+    icon = "linkedin"
     name = "linkedin"
     url = "https://www.linkedin.com/in/frankjordangbg"
   [[params.social]]
-    name = "xing"
     icon = "x"
+    name = "xing"
     url = "https://www.xing.com/profile/Frank_Jordan16"
 
   # Green theme
